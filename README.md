@@ -63,8 +63,32 @@ Agile is better when requirements are evolving, stakeholder feedback is essentia
 2. Cost Efficiency.
 3. Long-term Sustainability.
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the project scope of a project is very important as it clearly details exactly what the project is set to achieve by:
+ 1. Clarifying what the project outcomes will be thus preventing scope creep later on during the project.
+ 2. Improving planning accuracy for better estimation of resources making it easier to plot a realistic schedule.
+ 3. Facilitating risk management to identify potential risks and plan for contingencies more effectively.
+A Work Breakdown Structure refers to a project management tool that breaks down an entire project scope into small manageable sections.
+It is useful in the following ways:
+1.  It helps in assigning responsibilities by clearly defining what needs to be done and who should do what.
+2.  It serves as the basis for estimating costs, scheduling activities, and assigning resources.
+3.  It increases manageability of the project by breaking it down into smaller portions.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Benefits of developing a detailed project schedule include:
+1. Improved resource allocation allows one to allocate resources more efficiently, ensuring that materials are available when needed.
+2. Enhanced communication and coordination: A precise schedule improves communication among team members and stakeholders, as everyone can see the deadlines and interdependencies.
+3. Early identification of risks: By mapping out all tasks and their dependencies, potential risks can be identified early, allowing for adjustments.
+4. Progress monitoring: A detailed schedule establishes a baseline against which you can track progress and measure performance, making it easier to implement corrective actions for errors.
+ Gantt charts help by:
+1. Visualizing timelines as they display tasks as bars along a timeline, making it easy to see start and end dates and dependencies between tasks.
+2. Facilitating adjustments by allowing project managers to quickly update the timeline and assess the impact on the overall schedule.
+3. Enhancing stakeholder communication by making it simpler to share the project schedule with stakeholders who may not be familiar with more technical scheduling details.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Core issues our software aims at addressing include:
+1. Inefficient communication as many teams struggle with ineffective communication, leading to misaligned objectives. Our software centralizes communication, ensuring that every team member stays informed.
+2. Poor visibility into project progress since without real-time view of project timelines it’s hard to identify delays early. Our scheduling features and Gantt chart provide a clear roadmap of progress.
+3. Resource misallocation often result in wasted resources. Our solution offers robust resource planning and tracking, helping teams allocate resources more efficiently.
+4. Difficulty managing scope: Scope creep can derail a project thus by integrating tools like a Work Breakdown Structure and detailed project scheduling, our software helps maintain clear boundaries and manage changes effectively.
+   These problems are significant to our target audience—project managers, team leaders, and organizations—because they directly impact project success, efficiency and profitability. When communication is effective, resources are managed wisely and scope is well defined, projects are more likely to be completed within budget and with the desired quality.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
