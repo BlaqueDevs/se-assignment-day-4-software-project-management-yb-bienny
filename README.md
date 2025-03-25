@@ -90,7 +90,25 @@ Core issues our software aims at addressing include:
 4. Difficulty managing scope: Scope creep can derail a project thus by integrating tools like a Work Breakdown Structure and detailed project scheduling, our software helps maintain clear boundaries and manage changes effectively.
    These problems are significant to our target audience—project managers, team leaders, and organizations—because they directly impact project success, efficiency and profitability. When communication is effective, resources are managed wisely and scope is well defined, projects are more likely to be completed within budget and with the desired quality.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+1. Aids in scope management- This helps prevent scope creep and ensures that the team focuses on building a solution that truly addresses the core issue.
+2. There are informed design decisions- Architects and developers can choose the most appropriate design patterns and system architectures. This approach leads to more scalable solutions.
+3. Enhances Communication- It fosters better collaboration and ensures that everyone remains aligned throughout the development process.
+4. Risk Mitigation- defining the problem early on allows teams to identify potential challenges and risks. Addressing these upfront can help in crafting contingency plans.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+Start by explaining the core issue your software aims to address. Use clear, concise language to ensure your audience understands the significance of the solution and how it aims at addressing a certain problem.
+Highlight the key features that make your solution effective.
 ## 11. What are the main features or functionalities that make your software stand out?
+Our software offers superior value and addresses gaps left by competitors by use of features that provide:
+Comprehensive functionality.
+Unique efficiency and reliability.
+Scalability.
+Robust security.
+Intuitive interface.
+Seamless integration
 ## 12. What data is available regarding the market size and growth potential for your software?
+With technological advancements, regulatory changes and shifts in consumer behaviour, recent market research underscores a strong growth trajectory for tailored, AI-enabled software solutions.
+Driven by a surge in digital transformation initiatives, increasing demand for highly personalized and scalable systems as well as the accelerated adoption of cloud-based and AI-powered technologies, businesses across sectors seek more efficient, secure, and integrated solutions. Industry reports indicate that the global custom software development market was valued at approximately USD 47 billion in 2020 and is projected to grow at a compound annual growth rate (CAGR) of around 12%, potentially surpassing USD 85 billion by 2025. 
 ## 13. How can understanding market trends inform your software’s positioning and development?
+1. By identifying customer needs one can prioritize features that resonate with users and solve emerging pain points.
+2. Through competitive differentiation such as market shifts one can identify gaps and areas where software can stand out for example through unique integrations.
+3. Trends help shape our go-to-market messaging, ensuring the value proposition is clear and compelling, while also informing competitive pricing strategies.
